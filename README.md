@@ -1,6 +1,6 @@
 ## Hi 👋
 
-My name is Ari, and I'm based in Berkeley, CA. I collaborate on GitHub, and host many of my publc projects here!
+My name is Ari, and I'm based in Berkeley, CA. I collaborate on GitHub, and host many of my public projects here!
 
 <details>
 <summary>🎲 Game Solvers</summary>
