@@ -2,7 +2,8 @@
 
 My name is Ari, and I'm based in Berkeley, CA. I collaborate on GitHub, and host many of my publc projects here!
 
-### 🎲 Game Solvers
+<details>
+<summary>🎲 Game Solvers</summary>
 
 I love writing little “game solvers”, for common, relatively simple games.
 
@@ -16,13 +17,21 @@ I’ve slowly added to this list over time, going all the way back to when I beg
   [game-solvers](https://github.com/ariwbolton/game-solvers) ⋅ [noggle](https://github.com/ariwbolton/noggle) ⋅ [risk-probabilities](https://github.com/ariwbolton/risk-probabilities)
 </details>
 
-### 🔐 Cryptography
+</details>
 
-At UC Davis, I had the pleasure of learning from Prof. Phillip Rogaway, who specializes in Cryptography and got me interested cryptographic protocols. (Not “crypto”!) I’ve dabbled in roles which involve cryptography, and built a Substitution Cipher breaker a couple times. The only one of note is a Markov Chain Monte Carlo algorithm. 
+<details>
+<summary>🔐 Cryptography</summary>
 
-### 📈 Stock Trading
+At UC Davis, I had the pleasure of learning from [Prof. Phillip Rogaway](https://www.cs.ucdavis.edu/~rogaway/), who specializes in Cryptography and got me interested cryptographic protocols. (Not “crypto”!) I’ve dabbled in roles which involve cryptography, and built a Substitution Cipher breaker a couple times. The only one of note is a [Markov Chain Monte Carlo algorithm](https://github.com/ariwbolton/substitution-cipher-breaker/tree/master/substitution-cipher-breaker/monte_carlo_improved). 
 
-Quite a long time ago, I built a little “stock analyzer” program. It was able to scrape some historical stock ticker data, and run some very simple algorithms on it. Just thought it was fun — do not under any circumstances use this with real money!
+</details>
+
+<details>
+<summary>📈 Stock Trading</summary>
+
+Quite a long time ago, I built a little “stock analyzer” [program](https://github.com/ariwbolton/stock-analyzer). It was able to scrape some historical stock ticker data, and run some very simple algorithms on it. Just thought it was fun — do not under any circumstances use this with real money!
+
+</details>
 
 <!--
 **ariwbolton/ariwbolton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
