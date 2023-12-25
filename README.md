@@ -3,6 +3,12 @@
 My name is Ari, and I'm based in Berkeley, CA. I collaborate on GitHub, and host many of my public projects here!
 
 <details>
+  <summary>🏀 NBA Elo Tracker</summary>
+  
+  I used to love the [538 NBA Predictions](https://projects.fivethirtyeight.com/2023-nba-predictions) project, and was sad to see it shut down sometime after the site was acquired by ESPN. So, out of frustration, I've rebuilt the Elo tracking feature because it's just plain fun to check in on throughout the season! If I were faster at building pretty UIs, it'd look a lot better. Find it [here](https://elotracker.ariwbolton.com/), on my website. If I can find the time, maybe I'll revive the playoff prediction feature, too...
+</details>
+
+<details>
 <summary>🎲 Game Solvers</summary>
 
 I love writing little “game solvers”, for common, relatively simple games.
